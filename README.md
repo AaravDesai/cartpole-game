@@ -16,7 +16,7 @@ This project implements a Deep Q-Network (DQN) agent to solve the CartPole-v1 en
 - NumPy
 
 ## Project Structure
-- `CartPole.py`: Main script containing the DQN implementation and training loop
+- `CartPole.ipynb`: Main script containing the DQN implementation and training loop
 - `README.md`: This file
 
 ## How It Works
